@@ -1,0 +1,6 @@
+.centered-tag{
+    position:absolute;
+    top: 10%; 
+    left: 55%; 
+    transform: translate(-50%, -50%);
+}
